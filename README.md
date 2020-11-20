@@ -9,10 +9,6 @@ Jupyter Notebook art enhaning pipe with scripts to train Stylegan2 models on new
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
 
-**Analyzing and Improving the Image Quality of StyleGAN**<br>
-Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila<br>
-
-
 Theoretical part:
 - Tasks and methods of optimization
 - Lagrange multiplier method
