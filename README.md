@@ -7,7 +7,6 @@ Jupyter Notebook art enhaning pipe with scripts to train Stylegan2 models on new
 
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
-![Teaser image](./docs/stylegan2-teaser-1024x256.png)
 
 Theoretical part:
 - Tasks and methods of optimization
